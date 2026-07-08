@@ -1,7 +1,8 @@
 # xiaomi-plato-devs
 <img align="right" height="180" src="https://i02.appmifile.com/898_operator_sg/26/08/2022/fc94660da1d6dd006f7589327bb72813.png">
 
-This organization contains **some** of repositories to build AOSP ROMs for Xiaomi 12T. Get started by adding [local_manifest](https://github.com/mt6895-plato/local_manifest) to your ROM trees. (`.repo/local_manifests/plato.xml`)
+This organization contains **some** of repositories to build AOSP ROMs for Xiaomi 12T.
+<br>Get started by adding [local_manifest](https://github.com/mt6895-plato/local_manifest) to your ROM trees. (`.repo/local_manifests/plato.xml`)
 
 Branch: `16.2` (Android 16 QPR2)
 
