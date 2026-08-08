@@ -8,10 +8,11 @@ Current Branch: `16.2` (Android 16 QPR2)
 
 All credits goes to [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs), [xiaomi-mt6895-devs](https://github.com/xiaomi-mt6895-devs), and [XagaForge](https://github.com/XagaForge) for all of the trees.
 
-## List of AOSP trees available on this organization
+## List of trees available on this organization
 - [Xiaomi 12T Device Tree](https://github.com/mt6895-plato/android_device_xiaomi_plato)(`android_device_xiaomi_plato`)
 - [Xiaomi 12T Vendor Tree](https://gitlab.com/archcloudy/android_vendor_xiaomi_plato)(`android_vendor_xiaomi_plato`)
 - [MT6895 Common Tree](https://github.com/mt6895-plato/android_device_xiaomi_mt6895-common)(`android_device_xiaomi_mt6895-common`)
+- [MT6895 Vendor Tree](https://github.com/mt6895-plato/android_vendor_xiaomi_mt6895-common)(`android_vendor_xiaomi_mt6895-common`)
 
 ## Required Patches
 - [Return false for GetDeviceLockStatus() if fenrir=true](https://github.com/XagaForge/android_system_core/commit/f443c69db2291f7c156be86ba21ee0d7543ab4e7) (`android_system_core`)
