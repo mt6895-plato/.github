@@ -15,8 +15,7 @@ All credits goes to [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-de
 - [Xiaomi 12T Vendor Tree](https://gitlab.com/archcloudy/android_vendor_xiaomi_plato) (`android_vendor_xiaomi_plato`)
 - [MT6895 Common Tree](https://github.com/mt6895-plato/android_device_xiaomi_mt6895-common) (`android_device_xiaomi_mt6895-common`)
 - [MT6895 Vendor Tree](https://github.com/mt6895-plato/android_vendor_xiaomi_mt6895-common) (`android_vendor_xiaomi_mt6895-common`)
-- [MT6895 Kernel Tree)(https://github.com/mt6895-plato/android_kernel_xiaomi_mt6895) (`android_kernel_xiaomi_mt6895`)
-
+- [MT6895 Kernel Tree](https://github.com/mt6895-plato/android_kernel_xiaomi_mt6895) (`android_kernel_xiaomi_mt6895`)\
 - [Mediatek Sepolicy](https://github.com/mt6895-plato/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 - [Mediatek Hardware](https://github.com/mt6895-plato/android_hardware_mediatek) (`android_hardware_mediatek`)
 - [Xiaomi Hardware](https://github.com/mt6895-plato/android_hardware_xiaomi) (`android_hardware_xiaomi`)
