@@ -26,6 +26,8 @@ All credits goes to [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-de
 * [plato-MiuiCamera Device Tree](https://github.com/mt6895-plato/android_device_xiaomi_plato-miuicamera) (`android_device_xiaomi_plato-miuicamera`)
 * [plato-MiuiCamera Vendor Tree](https://gitlab.com/archcloudy/android_vendor_xiaomi_plato-miuicamera) (`android_vendor_xiaomi_plato-miuicamera`)
 
+---
+
 ### Required Patches
 * [Return false for GetDeviceLockStatus() if fenrir=true](https://github.com/XagaForge/android_system_core/commit/f443c69db2291f7c156be86ba21ee0d7543ab4e7) (`android_system_core`)
 * [Add xiaomi packages to the whitelist](https://github.com/mt6895-plato/android_build_soong/commit/cb80ea9a80796518350ab7193ceaf5649ddde091) (`android_build_soong`)
