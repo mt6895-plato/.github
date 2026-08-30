@@ -10,6 +10,8 @@ Current Branch:
 
 All credits goes to [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs), [xiaomi-mt6895-devs](https://github.com/xiaomi-mt6895-devs), and [XagaForge](https://github.com/XagaForge) for all of the trees.
 
+---
+
 ### Required trees:
 * [Xiaomi 12T Device Tree](https://github.com/mt6895-plato/android_device_xiaomi_plato) (`android_device_xiaomi_plato`)
 * [Xiaomi 12T Vendor Tree](https://gitlab.com/archcloudy/android_vendor_xiaomi_plato) (`android_vendor_xiaomi_plato`)
